@@ -4,10 +4,13 @@
 
 Hi there! I am a full stack engineer with a strong understanding of the core fundementals of Python, JavaScript, React, Redux, HTML, CSS. My previous work experience as a Business Analyst and Salesforce Admin have paired well with my end to end project planning and execution.
 
+`My LinkedIn`
 <p align="left">
-  <a href="https://www.linkedin.com/in/rubenpolanco/">
-    <img src="https://github.com/user-attachments/assets/a07bf708-175f-4296-bd93-623b5fd8600f"/>
-  </a>
+   <div>
+      <a href="https://www.linkedin.com/in/rubenpolanco/">
+      <img src="https://github.com/user-attachments/assets/a07bf708-175f-4296-bd93-623b5fd8600f"/>
+    </a>
+  </div>
 </p>  
 <!--
 **Rpolanco93/Rpolanco93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
