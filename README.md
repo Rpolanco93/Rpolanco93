@@ -6,10 +6,8 @@ Hi there! I am a full stack engineer with a strong understanding of the core fun
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rubenpolanco/">
+    <img src="https://github.com/user-attachments/assets/a07bf708-175f-4296-bd93-623b5fd8600f"/>
   </a>
-  ![In-logo](https://github.com/user-attachments/assets/c410ee40-f165-443b-87e1-32201ad9b5c5)
-
-
 </p>  
 <!--
 **Rpolanco93/Rpolanco93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
