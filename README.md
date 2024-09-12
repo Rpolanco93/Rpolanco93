@@ -1,7 +1,15 @@
-#Ruben Polanco  👋
+# Ruben Polanco  👋
 
 **`Professional Problem Solver or SWE`**
 
+Hi there! I am a full stack engineer with a strong understanding of the core fundementals of Python, JavaScript, React, Redux, HTML, CSS. My previous work experience as a Business Analyst and Salesforce Admin have paired well with my end to end project planning and execution.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rubenpolanco/">
+    <img alt="in logo" title="in logo" source="![image](https://github.com/user-attachments/assets/af1d8056-5570-47be-8e62-9fad24deab8c)
+" />
+  </a>
+</p>  
 <!--
 **Rpolanco93/Rpolanco93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
