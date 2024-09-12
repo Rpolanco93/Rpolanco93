@@ -6,7 +6,7 @@ Hi there! I am a full stack engineer with a strong understanding of the core fun
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rubenpolanco/">
-    ![In-White-128@2x](https://github.com/user-attachments/assets/cbf3a18f-ebd5-4fe6-95fd-728981b21bac)
+    [In-White-128@2x](https://github.com/user-attachments/assets/cbf3a18f-ebd5-4fe6-95fd-728981b21bac)
   </a>
 </p>  
 <!--
