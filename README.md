@@ -4,7 +4,7 @@
 
 Hi there! I am a full stack engineer with a strong understanding of the core fundementals of Python, JavaScript, React, Redux, HTML, CSS. My previous work experience as a Business Analyst and Salesforce Admin have paired well with my end to end project planning and execution.
 
-`My LinkedIn`
+Feel free to connect via [email] and LinkedIn!
 <p align="left">
    <div>
       <a href="https://www.linkedin.com/in/rubenpolanco/">
@@ -28,11 +28,17 @@ Hi there! I am a full stack engineer with a strong understanding of the core fun
 
 #
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpolanco93&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+
 ![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpolanco93&show_icons=true&theme=gruvbox)
 
 #
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rpolanco93&theme=gruvbox&border_radius=4.5)
+
+
 <!--
 **Rpolanco93/Rpolanco93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,3 +53,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[email]: mailto:andr3z.93@gmail.com
