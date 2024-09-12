@@ -6,8 +6,7 @@ Hi there! I am a full stack engineer with a strong understanding of the core fun
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rubenpolanco/">
-    <img alt="in logo" title="in logo" source="![image](https://github.com/user-attachments/assets/af1d8056-5570-47be-8e62-9fad24deab8c)
-" />
+    <img alt="in logo" title="in logo" source="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
   </a>
 </p>  
 <!--
